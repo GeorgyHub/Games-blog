@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Games blog</title>
-    <link rel="styleshet" href="style.css">
+    <link rel="stylesheet" href="http://games-blog.ru/wp-content/themes/themegame/style.css">
     <script src="https://code.jquery.com/jquery-3.7.1.js"></script>
 </head>
 <body>

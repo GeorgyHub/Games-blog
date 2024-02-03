@@ -7,3 +7,13 @@ Author URI: ваш-URI
 Template: default
 Version: 1.0.0
 */
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html, body{
+    background-color: cadetblue;
+    font-family: "Ariel", sans-serif;
+}
