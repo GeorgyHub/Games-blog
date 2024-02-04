@@ -6,10 +6,11 @@
     <title>Games blog</title>
     <!-- CSS -->
     <link rel="stylesheet" href="http://games-blog.ru/wp-content/themes/themegame/style.css">
+    <link rel="stylesheet" type="text/css" href="http://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
     <!-- Scripts -->
     <script src="https://code.jquery.com/jquery-3.7.1.js"></script>
-
-    <?php wp_head(); ?>
+    <script type="text/javascript" src="http://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+    <script type="text/javascript" src="http://games-blog.ru/wp-content/themes/themegame/js/slider.js"></script>
 </head>
 <body>
     <!--Header-->
@@ -32,4 +33,7 @@
             </ul>
         </div>
     </header>
+    <div class="block_slick_slider">
+        <div class="single-item"></div>
+    </div>
     <h1>Games blog</h1>
